@@ -33,20 +33,23 @@
 
 # 📊 GitHub Stats:
 
-### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNPKpenguin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNPKpenguin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=TNPKpenguin&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TNPKpenguin&theme=tokyonight&hide_border=true)
 
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNPKpenguin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TNPKpenguin&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TNPKpenguin&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+</div>
 
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TNPKpenguin&theme=tokyo-night&hide_border=false&area=true)
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TNPKpenguin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TNPKpenguin&icon=0&color=0)](https://visitcount.itsvg.in)
